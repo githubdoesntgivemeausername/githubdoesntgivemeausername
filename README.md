@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @githubdoesntgivemeausername
 - 👀 I’m interested in long ride and Technology!
 - 🌱 I’m currently learning React 
- [" Ash "#9455 on discord]
+ - you can contact me @ [" Ash "#9455 on discord]
 
 <!---
 githubdoesntgivemeausername/githubdoesntgivemeausername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
