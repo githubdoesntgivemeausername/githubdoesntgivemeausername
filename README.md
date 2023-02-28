@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @githubdoesntgivemeausername
-- 👀 I’m interested in long ride and Technology!
+- 👀 I’m interested in long rides and Technology!
 - 🌱 I’m currently learning React 
  - you can contact me @ [" Ash "#9455 on discord]
 
